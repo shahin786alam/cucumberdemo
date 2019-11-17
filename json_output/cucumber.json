@@ -1,0 +1,40 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 55,
+        "name": "Browser is close",
+        "description": "",
+        "id": "free-crm-application-testing;browser-is-close",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 154772901,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "This is a browser close test",
+            "match": {
+              "location": "TaggingStepDefinition.This_is_a_browser_close_test()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Free CRM application testing",
+    "description": "",
+    "id": "free-crm-application-testing",
+    "keyword": "Feature",
+    "uri": "C:/Users/Shahin Alam/eclipse-workspace/cucumberdemo/src/main/java/Features/Tags.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]
